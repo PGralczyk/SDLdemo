@@ -1,0 +1,54 @@
+﻿  01_hello_SDL.cpp
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(77,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(78,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(91,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(92,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(100,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(101,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(106,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(107,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(143,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(147,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(200,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(201,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(202,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(203,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(249,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(249,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(250,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(250,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(253,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(285,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(332,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(358,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(359,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(361,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(361,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(320,8): warning C4101: 'pomY': unreferenced local variable
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(319,8): warning C4101: 'pomX': unreferenced local variable
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(595,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(600,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(601,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(605,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(630,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(737,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(738,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(739,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(739,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(740,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(741,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(742,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(742,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(872,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(879,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(894,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(905,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(905,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(906,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(906,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(928,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(928,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(929,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(929,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio\Projects\Gry2Dzad1\Gry2Dzad1\01_hello_SDL.cpp(652,9): warning C4930: 'Tile goaltile(void)': prototyped function not called (was a variable definition intended?)
+  Gry2Dzad1.vcxproj -> D:\visual_studio\Projects\Gry2Dzad1\x64\Debug\Gry2Dzad1.exe
